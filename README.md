@@ -8,4 +8,4 @@ This is a project to do classification on spotify data. The description of the f
     - Used for the category part.
 
 # Shiny link
-[Shint app](https://mario2747.shinyapps.io/spotifyclassification/)
+[Shiny app](https://mario2747.shinyapps.io/spotifyclassification/)
