@@ -6,3 +6,6 @@ This is a project to do classification on spotify data. The description of the f
     - Our sample to do find the similar confidence podcasts.
   - podcasts.csv
     - Used for the category part.
+
+# Shiny link
+[Shint app](https://mario2747.shinyapps.io/spotifyclassification/)
